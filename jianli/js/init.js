@@ -515,7 +515,7 @@ function arlo_tm_animate_text(){
 	var animateSpan			= jQuery('.arlo_tm_animation_text_word');
 	
 		animateSpan.typed({
-			strings: ["Freelancer", "UI/UX Designer", "Web Developer"],
+			strings: ["热爱写作的签约写手", "学习摄影的业余兴趣人", "品味生活的美食发现者", "追踪热点的发烧新青年"],
 			loop: true,
 			startDelay: 1e3,
 			backDelay: 2e3
